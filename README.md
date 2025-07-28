@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🧙‍♂️ **Front-end Wizard at @elao**  
 *Class: Code Sorcerer (Front-end subclass)*  
 *Level: Senior in Spells of React and TypeScript*  
-*Alignment: Chaotic Accessible*  
+*Alignment: Lawful Clean Code*  
 
 **Stats**  
 - 💻 INT +5 — Mastery of React, TypeScript, GraphQl, and others modern front incantations  
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 **Feats & Special Abilities**  
 - 🔁 React hooks Whisperer  
-- ⚔️ Slays legacy code with a single commit (adding a "// TODO: Redo this but nicely")
+- 🧪 Refacto code to avoid redundancy
 - 📦 Summons animations with Framer Motion or View Transitions
 - 🔐 Speaks the sacred tongue of Accessibility (not fluent yet)
 
