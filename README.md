@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 - Working on my own Fantasy Grimoires
 
 **Preview of my skillset [here](https://polemil.dev) :**
-<p align="left">
-  <img src="https://media.discordapp.net/attachments/795025538913140806/1399340348068855848/Signature_Polemil_-_Front-End.png?ex=6888a4c1&is=68875341&hm=9d3b08916e3a12386a19119fe54eefa588b7c1208ce9ec63539af30fc20c6fc2&=&format=webp&quality=lossless&width=800&height=400" alt="Polemil.dev - Développeur Front-End" />
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/795025538913140806/1399345984680493137/Copie_de_Banniere_Polemil.png?ex=6888aa01&is=68875881&hm=e59d5e1f03e55a42f01d51dc6a3f8f61e74cdd91c9da2e5b4fa3f6688e66046e&=&format=webp&quality=lossless&width=2928&height=732" alt="Polemil.dev - Développeur Front-End" />
 </p>
