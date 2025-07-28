@@ -21,28 +21,28 @@ Here are some ideas to get you started:
 *Level: Senior in Spells of React and TypeScript*  
 *Alignment: Lawful Clean Code*  
 
-**Stats**  
+**📊 Stats 📊**  
 - 💻 INT +5 — Mastery of React, TypeScript, GraphQl, and others modern front incantations  
 - 🪄 WIS +4 — Knows when to refactor, when to rewrite, and helps novice magicians
 - 🎨 CHA +3 — Brings charm to every interface with a touch of ✨CSS magic✨ 
 - 🧠 CON +∞ — Survives daily builds and product pivots with a grin  
 
-**Inventory**  
+**👜 Inventory 👜**  
 - 🧩 Puzzle pieces of the Clean Code Secrets  
-- 📘 Dozens of documentations grimoire, like MDN, React, MUI, ...
+- 📚 Dozens of documentations grimoire, like MDN, React, MUI, ...
 - 🎯 Precision Debugging Wand  
 - 🐛 Tamed Bug Familiar (called “Feature”)  
 
-**Feats & Special Abilities**  
-- 🔁 React hooks Whisperer  
+**🧌 Feats & Special Abilities 🧌**  
+- 🤫 React hooks Whisperer  
 - 🧪 Refacto code to avoid redundancy
 - 📦 Summons animations with Framer Motion or View Transitions
 - 🔐 Speaks the sacred tongue of Accessibility (not fluent yet)
 
-**Currently on a quest to:**  
-- Turn feedback into XP 
-- Draw art illustrations and character designs  
-- Train in the sacred arts of Figma  
-- Selling art for potion supplies  
-- Working on my own Fantasy Grimoires
+**📜 Currently on a quest to: 📜**  
+- 📈 Turn feedback into XP 
+- 👨🏼‍🎨 Draw art illustrations and character designs  
+- 👨🏻‍💻 Train in the sacred arts of Figma
+- 🧙🏼‍♂️ Sell art for a brand new staff
+- 📖 Work on my own Fantasy Grimoires
 
