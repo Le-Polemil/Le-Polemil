@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Polemil.dev - Développeur Front-End](https://media.discordapp.net/attachments/795025538913140806/1399345984680493137/Copie_de_Banniere_Polemil.png?ex=6888aa01&is=68875881&hm=e59d5e1f03e55a42f01d51dc6a3f8f61e74cdd91c9da2e5b4fa3f6688e66046e&=&format=webp&quality=lossless&width=2928&height=732)](https://polemil.dev/)
+[![Polemil.dev - Développeur Front-End](https://bo.polemil.dev/uploads/Banniere_Polemil_eda6f9bd83.png)](https://polemil.dev/)
 
 ## **🧙‍♂️ Front-end Wizard at @elao**  
 *Class: Code Sorcerer (Front-end subclass)*  
