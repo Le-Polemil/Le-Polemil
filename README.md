@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 🌀 Transition : Summons animations with Framer Motion or View Transitions
 
 
-### ** Achievements**
+### **✨ Achievements**
 - 📜 Finished big quests for : *Elao, Cultura, Make.org, CGT, ... ([see More](https://polemil.dev/projects))*
 - ⚛️ Learned loads of arcanes : *React, TypeScript, Apollo, GraphQL, SCSS, Tailwind, Redux, ... ([see More](https://polemil.dev/stack))*
 
