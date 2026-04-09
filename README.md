@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 *Class: Web Druid. Use a few forms, masterized the React and the Shoebill ones. Avoid back-end forms.*  
 *Level: Young Senior*  
 *Alignment: Clean Coder 👼*  
-*Familiar: AI Powered IDE (his little name is Cursor)*  
+*Familiar: A little guy named Claude Code*  
 
 
 ### **📊 Stats**  
 - 💻 INT +5 — Mastery of React, TypeScript, GraphQl, and others modern front incantations  
 - 🪄 WIS +4 — Knows when to refactor, when to rewrite, and helps novice magicians
-- 🎨 CHA +3 — Brings charm to every interface with a touch of ✨CSS magic✨
+- 🎨 CHA +3 — Brings charm to every interface with a touch of ✨CSS magic✨, can handle Figma's power
 
 
 ### **👜 Inventory**  
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ### **🧌 Special Abilities**  
-- 🫆 Shapeshift : Change form to adapt to new projects. Currently training the Astro one.
+- 🫆 Shapeshift : Change form to adapt to new projects. Currently shapeshifted to an Astro developper.
 - 🧪 Refacto : Avoid code redundancy
 - 💄 Prettify : Remodel stuff to give it some charm
 - 🌀 Transition : Summons animations with Framer Motion or View Transitions
@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 - 📈 Turn feedback into XP 
 - 👨🏼‍🎨 Draw art illustrations and character designs  
 - 🌱 Learning the sacred arts of Figma
-- 🧙🏼‍♂️ Sell art for a brand new staff
+- 🧙🏼‍♂️ Sell art and jewels for a brand new staff
 - 📖 Work on my own Fantasy Grimoires
 
