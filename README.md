@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Polemil.dev - Développeur Front-End](https://bo.polemil.dev/uploads/Banniere_Polemil_eda6f9bd83.png)](https://polemil.dev/)
+[![Polemil.dev - Développeur Front-End](https://bo2.polemil.dev/uploads/Banniere_Polemil_d2e2fc9ef1.png)](https://polemil.dev/)
 
 ## **🧙‍♂️ Front-end Senior Wizard at @elao**  
 *Class: Web Druid. Use a few forms, masterized the React and the Shoebill ones. Avoid back-end forms.*  
